@@ -91,7 +91,7 @@ _Возврат на самую актуальную версию файла_
 
 _____
 
-<image src="\D:\First_leson\end.jpg" alt="git_images">
+![сделал](end.jpg)
 
 ____
 
