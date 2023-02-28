@@ -1,6 +1,6 @@
 # Что такое GIT и как с ним бороться?
 
-<image src="\D:\First_leson\git.jpeg" alt="git_images">
+![сделал](jpg/git.jpeg)
 
 
 
@@ -25,7 +25,7 @@ ____
 
 ___
 
-<image src="\D:\First_leson\clown.jpg" alt="git_images">
+![сделал](jpg/clown.jpg)
 
 ____
 
@@ -65,7 +65,7 @@ _Этой командой вы сразу выполняете действие
 
 ____
 
-<image src="\D:\First_leson\mask.jpg" alt="git_images">
+![сделал](jpg/mask.jpg)
 
 ____
 
